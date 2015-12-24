@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\zhangxt4\AndroidStudioProjects\ImoocQQslidingmenu\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="C:\Users\zhangxt4\AndroidStudioProjects\ImoocQQslidingmenu\app\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0-bd24492831e7dde2c7f16d791ac64d6aaefedd9b.jar" />
+    </item>
+    <item
+        jar="C:\Users\zhangxt4\AndroidStudioProjects\ImoocQQslidingmenu\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\zhangxt4\AndroidStudioProjects\ImoocQQslidingmenu\app\build\intermediates\pre-dexed\debug\classes-2993791e3273300a985dcc8a28439d8968d490fc.jar" />
+    </item>
+    <item
+        jar="C:\Users\zhangxt4\AndroidStudioProjects\ImoocQQslidingmenu\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\zhangxt4\AndroidStudioProjects\ImoocQQslidingmenu\app\build\intermediates\pre-dexed\debug\classes-3413bd392ebba36a7d9378614162d10a42ced2b1.jar" />
+    </item>
+    <item
+        jar="C:\Users\zhangxt4\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\zhangxt4\AndroidStudioProjects\ImoocQQslidingmenu\app\build\intermediates\pre-dexed\debug\library-2.4.0-81f17d0d3d3b4db28eaec1de9e739a6de6604eeb.jar" />
+    </item>
+    <item
+        jar="C:\Users\zhangxt4\AndroidStudioProjects\ImoocQQslidingmenu\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\zhangxt4\AndroidStudioProjects\ImoocQQslidingmenu\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-ab0774ad9f68b2287c4086c39d27eff62b47e48b.jar" />
+    </item>
+    <item
+        jar="C:\Users\zhangxt4\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\zhangxt4\AndroidStudioProjects\ImoocQQslidingmenu\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-5174bfa4684c11885f5aa1e7b70c96b850017ff3.jar" />
+    </item>
+
+</items>
